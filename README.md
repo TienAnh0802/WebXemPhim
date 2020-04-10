@@ -17,3 +17,4 @@ Ngôn ngữ sử dụng: PHP
 Tài liệu tham khảo:
 
 - [Sprint planning](https://docs.google.com/spreadsheets/d/16i-ogMAvyHw0cUPDh8gvjOZuRrhflfdbSUoPXctM2mM/edit#gid=0)
+- [Q&A](https://drive.google.com/open?id=1mtWweQX9rc9au-i_Ix3SnW4coITNS6KJciskskiBOD0)
