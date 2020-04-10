@@ -13,3 +13,7 @@ Thành viên:
 - Nguyễn Tiến Anh-20176074
 
 Ngôn ngữ sử dụng: PHP
+
+Tài liệu tham khảo:
+
+- [Sprint planning](https://docs.google.com/spreadsheets/d/16i-ogMAvyHw0cUPDh8gvjOZuRrhflfdbSUoPXctM2mM/edit#gid=0)
