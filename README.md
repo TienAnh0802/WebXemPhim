@@ -26,6 +26,16 @@ Tính năng chính:
 
 - Tìm kiếm phim theo từ khóa, thể loại
 
+Phân tích thiết kế hệ thống:
+
+- [Biểu đồ use case](https://github.com/TienAnh0802/WebXemPhim/tree/master/use-case%20draft)
+
+- [Biểu đồ activity](https://github.com/TienAnh0802/WebXemPhim/tree/master/Activity%20Diagram)
+
+- [Biểu đồ sequence](https://github.com/TienAnh0802/WebXemPhim/tree/master/Sequence%20diagram)
+
+- [Biểu đồ class](https://github.com/TienAnh0802/WebXemPhim/tree/master/Class%20diagram)
+
 Tài liệu tham khảo:
 
 - [Product backlog&Sprint planning](https://docs.google.com/spreadsheets/d/16i-ogMAvyHw0cUPDh8gvjOZuRrhflfdbSUoPXctM2mM/edit#gid=0)
