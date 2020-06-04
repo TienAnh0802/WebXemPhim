@@ -2,8 +2,8 @@
 require_once("includes/header.php");
 
 $preview = new PreviewProvider($con, $userLoggedIn);
-echo $preview->createPreviewVideo(null);
+echo $preview->createMoviesPreviewVideo();
 
 $containers = new CategoryContainers($con, $userLoggedIn);
-echo $containers->showAllCategories();
+echo $containers->showMovieCategories();
 ?>
