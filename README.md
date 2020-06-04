@@ -12,7 +12,11 @@ Thành viên:
 
 - Nguyễn Tiến Anh-20176074
 
-Ngôn ngữ sử dụng: PHP
+Ngôn ngữ sử dụng: 
+
+- Ngôn ngữ lập trình: PHP
+
+- Cơ sở dữ liệu: Mysql
 
 Tính năng chính:
 
