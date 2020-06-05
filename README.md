@@ -12,7 +12,9 @@ Thành viên:
 
 - Nguyễn Tiến Anh-20176074
 
-Ngôn ngữ sử dụng: 
+Công cụ và ngôn ngữ sử dụng: 
+
+- XamPP
 
 - Ngôn ngữ lập trình: PHP
 
